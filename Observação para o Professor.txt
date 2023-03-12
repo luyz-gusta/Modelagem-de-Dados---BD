@@ -1,0 +1,16 @@
+Professor alguns exercicios foram feitos na versão 3.0 do brModelo e 
+outros na versão 3.2; para auxiliar o senhor caso queira abrir o 
+arquivo deixarei a lista de cada versão utilizada em cada exercicio:
+A-3.0
+B-3.2
+C-3.0
+D-3.2
+E-3.2
+F-3.2
+G-3.0
+H-3.2
+I-3.2
+J-
+K-3.2
+L-3.2
+M-3.2
